@@ -1,5 +1,7 @@
 ## Hi there 👋
-- 🌱 I’m currently learning Web Development and Practicing DSA Questions
+- 👋 Hi there I am Ambuj Kumar Singh.
+- 🌱 I’m interested in Web Development, Data Analytics, Data Science and Game Development.
+- 📫 How to reach me ambujks2002@gmail.com
 <!--
 **ambujks/ambujks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
